@@ -15,6 +15,6 @@ $ sudo bash -c "echo extension=/usr/lib/php/20180731/mcrypt.so > /etc/php/7.3/cl
 
 ## to test : 
 ```
-$php virus.php
+$ php virus.php
 
 ```
